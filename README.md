@@ -1,7 +1,7 @@
 
 # Foodfy
 
-This is a project whose objective is to help restaurants in promoting their menus. 
+Este projeto tem como objetivo divulgar os trabalhos do Mayke Brito com Programador.
 
  
 ### Technologies used:
