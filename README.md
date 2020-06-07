@@ -1,7 +1,7 @@
 
 # Foodfy
 
-Este projeto tem como objetivo divulgar os trabalhos do Mayke Brito com Programador.
+Este projeto tem como objetivo divulgar os trabalhos do Mayke Brito como Programador.
 
  
 ### Technologies used:
@@ -18,12 +18,12 @@ Este projeto tem como objetivo divulgar os trabalhos do Mayke Brito com Programa
 ![sobre](https://user-images.githubusercontent.com/48223561/83979982-84ac8800-a8e8-11ea-9a5a-d52f4fdfe73f.png)
 
  
-  - [x] Aulas
+ - [x] Aulas
 
 ![aulas](https://user-images.githubusercontent.com/48223561/83980004-a443b080-a8e8-11ea-9449-74f5413a62d4.png)
 
 
- - [x] Detralhes dos Cursos
+ - [x] Detalhes dos Cursos
 
 ![detalhe](https://user-images.githubusercontent.com/48223561/83980074-1ae0ae00-a8e9-11ea-999f-0cf2bc23bfff.png)
 
